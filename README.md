@@ -1,0 +1,2 @@
+# NoHeadShot
+Disable headshot 
