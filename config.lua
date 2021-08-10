@@ -1,1 +1,1 @@
-Config. EnableHeadshot = false
+Config.EnableHeadshot = false
